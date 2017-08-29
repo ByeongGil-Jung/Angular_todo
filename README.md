@@ -1,2 +1,2 @@
 # Angular_todo
-Made Angular_todo example for studying Angular components.
+Made an Angular_todo example for studying Angular components.
